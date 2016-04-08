@@ -1,7 +1,7 @@
 package com.yappstudios.countdowngame;
 
 /*
- * The Android chronometer widget revised so as to count milliseconds
+ * The Android chronometer widget in format SS:mmm (mmm = milliseconds)
  */
 
 import android.content.Context;
