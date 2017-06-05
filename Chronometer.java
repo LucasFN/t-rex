@@ -1,4 +1,4 @@
-package com.yappstudios.countdowngame;
+package br.com.solarmoon;
 
 /*
  * The Android chronometer widget in format SS:mmm (mmm = milliseconds)
